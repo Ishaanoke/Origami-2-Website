@@ -1,0 +1,10 @@
+h6 {
+    color:black
+}
+
+.miniheader{
+    background-color:aliceblue;
+    display: flex;
+flex-wrap: wrap;
+    
+}
